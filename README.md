@@ -14,7 +14,7 @@ Where the data in assignment3.csv is normalized to the data in SIMD16 indicator 
 
 SOM analysis using R. 
 
-Code located at: SOM
+Code located at: SOM. 
 SOM analysis using the kohonen package, plotted using ggplot2.
 
 Steps：
