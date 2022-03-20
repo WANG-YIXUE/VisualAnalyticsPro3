@@ -6,7 +6,7 @@ This project aims to gain new insights into patterns of deprivation within Edinb
 
 Edinburgh boundary map source: SG_SIMD_2016_EDINBURGH.shp
 
-Source of raw data：SIMD16 indicator data.xlsx
+Source of raw data：SG_SIMD_2016_EDINBURGH_TableToExcel.xlsx
 
 Source of data for SOM in R：assignment3.csv
 
