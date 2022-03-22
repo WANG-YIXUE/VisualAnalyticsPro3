@@ -170,5 +170,6 @@ pretty_palette1 <- c("#69779B", '#9692AF', '#ACDBDF', '#D7EAEA', '#41AAA8')
 # Finally map the areas and colour by cluster
 ggplot(data=mappoints, aes(x=long, y=lat, group=group, fill=factor(cluster))) + 
   geom_polygon(colour="black")  + 
+  theme(legend.position = "bottom") + 
   coord_equal() + 
   scale_fill_manual(values = pretty_palette1) 
