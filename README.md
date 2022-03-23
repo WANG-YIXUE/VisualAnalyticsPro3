@@ -10,7 +10,7 @@ Source of raw data：SG_SIMD_2016_EDINBURGH_TableToExcel.xlsx
 
 Source of data for SOM in R：assignment3.csv
 
-Where the data in assignment3.csv is normalized to the data in SIMD16 indicator data.xlsx. The standardization method: Log10. The formula is x'=log10(x)/log10(max(xi))
+Where the raw data is normalised to obtain the data in assignment3.csv. The standardization method: Log10. The formula is xi'=log10(x)/log10(max(xi))
 
 SOM analysis using R. 
 
