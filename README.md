@@ -15,6 +15,7 @@ Where the raw data is normalised to obtain the data in assignment3.csv. The stan
 SOM analysis using R. 
 
 Code located at: SOM. 
+
 SOM analysis using the kohonen package, plotted using ggplot2.
 
 Steps：
